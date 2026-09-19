@@ -4,13 +4,12 @@
 ### September 19, 2026
 
 ### Objectives:
-At the end of this laboratory activity, the student should be able to:
 1. Filter tabular data using several categorical and numerical conditions;
 2. Construct focused DataFrames by selecting relevant features;
 3. Summarize the relationship between categorical features and a numerical variable; and
 4. Communicate a data comparison using clear and correctly labeled plots.
 
-The student must use the same ECE Board Exam 2 dataset supplied for Experiment 4. Work in a Jupyter Notebook using Pandas and a Python plotting library used in class. Use the dataset's existing column labels, including Name, Gender, Track, Hometown, Math, GEAS, Electronics, and Average.
+Use the same ECE Board Exam 2 dataset supplied for Experiment 4. Work in a Jupyter Notebook using Pandas and a Python plotting Library used in class. Use the dataset's existing column labels, including Name, Gender, Track, Hometown, Math, GEAS, Electronics, and Average.
 - Derive all tables and plot values from the dataset. Do not manually type rows, category means, or plotted values.
 - When applying more than one condition, make every condition explicit in the filtering expression.
 - Keep the original DataFrame unchanged.
